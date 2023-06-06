@@ -1,4 +1,5 @@
-.venv/
+.git/
 .ipynb_checkpoints/
-BFS/.ipynb_checkpoints/
-.gitignore
+.venv/
+BFS/.ipynb_checkpoints
+
