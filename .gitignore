@@ -1,5 +1,2 @@
-.git/
-.ipynb_checkpoints/
-.venv/
-BFS/.ipynb_checkpoints
 
+*.ipynb
