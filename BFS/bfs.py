@@ -8,3 +8,8 @@ def bfs(graph, start):
     queue = [start]
     
     return graph, start
+def dfs(graph, start):
+    graph = np.array(graph)
+    start = np.array(start)
+    stack = [start]
+    return graph, start
