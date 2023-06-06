@@ -13,3 +13,7 @@ def dfs(graph, start):
     start = np.array(start)
     stack = [start]
     return graph, start
+def dp(graph, start):
+    graph = np.array(graph)
+    start = np.array(start)
+    return graph, start
